@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "weird writing about autism (vent-ish)"
+title:  "personal writing about autism (vent-ish)"
 date:   2026-11-18 10:48:48 -0800
 ---
 
