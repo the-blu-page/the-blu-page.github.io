@@ -6,6 +6,12 @@ layout: home
 title: Homepage
 ---
 
+<center>
+
+<img src="/assets/img/asciiText.png" alt="">
+<img src="/assets/img/decimals.png" alt="">
+
+</center>
 
 ~
 `>./home.sh`
